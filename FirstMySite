@@ -1,0 +1,68 @@
+<h1>Doğan KUL</h1>
+<hr>
+<h2 id="ozgecmis">Özgeçmiş</h2>
+    <p>
+       1997 yılında Ankara'da dünyaya geldim.
+       İlköğrenimimi Ankara'da tamamladım.2011 yılında <strong><em>Maltepe Askeri Lisesine</em></strong> başladım.
+       2022 yılında Gazi Üniversitesinden mezun oldum.
+       Şuan Decathlon'da Departman lideri olarak görev yapıyorum. 
+    </p>
+    <hr>
+    <h4 id="ılgı">İlgi Alanlarım</h4>
+    <br>
+    <ol>
+        <li>Film
+            <ul>
+                <li><a href="https://www.google.com/search?q=rocky&sca_esv=6971a9930d7c850a&sxsrf=ADLYWILKPR
+                    Ny1LkX0a8kfbDlZ5ejIDD5WA%3A1728754695450&ei=B7QKZ6H4GuPPxc8PiZb5uAw&gs_ssp=eJzj4tDP1TdIT
+                    jOwMGD0Yi3KT86uBAApCgTn&oq=rock&gs_lp=Egxnd3Mtd2l6LXNlcnAiBHJvY2sqAggAMg0QLhiABBixAxhDGIo
+                    FMhAQLhiABBixAxhDGIMBGIoFMhAQLhiABBixAxhDGNQCGIoFMhAQLhiABBixAxhDGIMBGIoFMhAQLhiABBixAxhDG
+                    IMBGIoFMhAQLhiABBixAxhDGIMBGIoFMgoQABiABBhDGIoFMgoQLhiABBhDGIoFMggQLhiABBixAzIOEC4YgAQYsQM
+                    YgwEYigUyHBAuGIAEGLEDGEMYigUYlwUY3AQY3gQY4ATYAQFIthVQqgJY5gdwAXgBkAEAmAHMAaABogWqAQUwLjMuMb
+                    gBA8gBAPgBAZgCBqAC6BCoAhLCAgcQLhgnGOoCwgINEC4YxwEYJxjqAhivAcICBxAjGCcY6gLCAhYQLhiABBhDGLQCGMgDG
+                    IoFGOoC2AEBwgIKECMYgAQYJxiKBcICBBAjGCfCAg0QLhiABBhDGNQCGIoFwgILEC4YgAQYsQMYgwHCAhkQLhiAB
+                    BhDGIoFGJcFGNwEGN4EGOAE2AEBmAM4ugYGCAEQARgIkgcJMS4yLjIuNy0xoAeQXA&sclient=gws-wiz-serp" target="_blank">Rocky</a></li>
+                <li><a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwMszOTjFg9GItSsxNygcALqQFPQ&q=rambo
+                    &oq=Ramb&gs_lcrp=EgZjaHJvbWUqDwgBEC4YQxixAxiABBiKBTIGCAAQRRg5Mg8IARAuGEMYsQMYgAQYigUyDAgCEC4Y
+                    QxiABBiKBTIPCAMQLhhDGLEDGIAEGIoFMg8IBBAuGEMYsQMYgAQYigUyCggFEC4YsQMYgAQyEggGEAAYQxiDARixAxiABBiKBT
+                    IMCAcQABhDGIAEGIoFMgcICBAAGI8CMgcICRAAGI8C0gEINzUxNGowajmoAgiwAgE&sourceid=chrome&ie=UTF-8" target="_blank">Rambo</a></li>
+            </ul>
+        </li>
+        <br>
+        <li>Dizi
+            <ul>
+                <li><a href="https://www.google.com/search?gs_ssp=eJzj4tTP1TcwS0mrMjRg9OIpKMoszs9TSCpKTcwGAGAqC
+                    AE&q=prison+break&oq=priso&gs_lcrp=EgZjaHJvbWUqDQgCEC4Ygw
+                    EYsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyDQgCEC4YgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyBggEE
+                    EUYOTINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDIHCAcQLhiABDINCAgQABiDARixAxiABDIHCAkQLhiABNIB
+                    CDQxNDNqMGo0qAIIsAIB&sourceid=chrome&ie=UTF-8" target="_blank">Prison Break</a></li>
+                <li><a href="https://tr.wikipedia.org/wiki/Battal_Gazi" target="_blank">Battal Gazi</a></li>
+            </ul>
+        </li>
+        <br>
+        <li>Kitap
+            <ul>
+                <li><a href="https://www.kitapyurdu.com/kitap/ermeni-meselesi-17742005/73673.html?sr
+                    sltid=AfmBOoqrQdco3ZZaOBgdhBrHjRch0SsakW05EAS-4Sa-8HR-ixAj5XSq" target="_blank">Ermeni Meselesi</a></li>
+                <li><a href="https://onedio.com/haber/tarihi-romanlardan-biri-olan-osmancik-kitabinin-ozeti-1078052" target="_blank">Osmancık</a></li>
+            </ul>
+        </li>
+       </ol>
+       <hr>
+       <h4 id="en">En İyiler</h4>
+       <br>
+       <h5>Rocky</h5>
+       <img src="https://upload.wikimedia.org/wikipedia/tr/8/87/Rocky_3_poster.jpg" alt="rocky">
+       <br>
+       <h5>Prison Break</h5>
+       <img src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B661D1CF4B2D5C3EED3456C80726E412E5AF83F8C1C78A707F6D3AD27C56D67D/scale?width=1200&aspectRatio=1.78&format=webp" alt="prison">
+       <br>
+       <h5>Ermeni Meselesi</h5>
+       <img src="https://static.nadirkitap.com/fotograf/1698350/31/Kitap_2023030712391716983503.jpg" alt="Ermeni">
+       <br>
+       <ul>
+        <li><a href="#ozgecmis">Özgeçmiş</a></li>
+        <li><a href="#ılgı">İlgi Alanlarım</a></li>
+        <li><a href="#en">En İyiler</a></li>
+       </ul>
+       
