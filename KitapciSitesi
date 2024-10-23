@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOĞAN KİTAPÇILIK</title>
+    <link rel="stylesheet" href="homework-css.css">
+</head>
+<body>
+    <h1>KİTAP DÜKKANIM</h1>
+    <p><a href="indexO.html">Ana Sayfa</a></p>
+    <p><a href="contextO.html">Ürünler</a></p>
+    <p><a href="about-usO.html">Hakkımızda</a></p>
+    
+    <h2>Ana Sayfa</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto, velit ad cupiditate, in numquam quam nostrum consequuntur officiis a laudantium explicabo rerum alias. Iure optio perferendis saepe dicta placeat quae!
+    Veniam expedita asperiores repellat soluta, esse sed iusto illum, corrupti quos velit, maxime vero! Repellat commodi nihil possimus aperiam. Obcaecati suscipit vitae rem at eius ipsam alias. Itaque, cumque culpa?
+    Ducimus aliquid voluptatem, debitis ad culpa itaque, quisquam asperiores ullam eaque voluptate quaerat necessitatibus deserunt, fugiat aspernatur rerum. Dolorem possimus at repudiandae non quam ullam libero veritatis assumenda eaque eveniet!
+    Debitis dignissimos saepe, ducimus sapiente tenetur laboriosam et voluptatibus! Facere, aperiam blanditiis! Officia, minus labore? Quam veritatis alias qui, tempora reiciendis nesciunt? Voluptas iure tenetur inventore nesciunt adipisci. Possimus, quibusdam?
+    Dolorem eaque aliquid illum sit omnis deleniti enim voluptatem fuga ut iusto dignissimos sapiente tempora consectetur labore eligendi ducimus ea, illo minima laboriosam quos, expedita alias dicta sunt vel! Vel.</p>
+    <h3>Kitap Katagorileri</h3>
+    <ul style = "list-style-type:none;" >
+        <li>TARİH</li>
+        <li>BİLİM</li>
+        <li>FELSEFE</li>
+        <li>DİN</li>
+        <li>TÜRK KLASİKLERİ</li>
+        <li>DÜNYA KLASİKLERİ</li>
+        <li>ÇOCUK KİTAPLARI</li>
+        
+    </ul>
+</body>
+</html>
